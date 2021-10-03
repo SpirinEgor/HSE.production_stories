@@ -1,0 +1,6 @@
+[submodule "2_trading"]
+	path = 2_trading
+	url = git@github.com:SpirinEgor/trading_story.git
+[submodule "3_modeling"]
+	path = 3_modeling
+	url = git@github.com:SpirinEgor/statistic_for_modeling_story.git
