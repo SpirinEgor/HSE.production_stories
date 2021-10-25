@@ -4,3 +4,6 @@
 [submodule "3_modeling"]
 	path = 3_modeling
 	url = git@github.com:SpirinEgor/statistic_for_modeling_story.git
+[submodule "5_reinforcement"]
+	path = 5_reinforcement
+	url = git@github.com:SpirinEgor/rl_story.git
