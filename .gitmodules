@@ -7,3 +7,6 @@
 [submodule "5_reinforcement"]
 	path = 5_reinforcement
 	url = git@github.com:SpirinEgor/rl_story.git
+[submodule "6_spellchecker"]
+	path = 6_spellchecker
+	url = git@github.com:SpirinEgor/spellchecker_story.git
