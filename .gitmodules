@@ -10,3 +10,6 @@
 [submodule "6_spellchecker"]
 	path = 6_spellchecker
 	url = git@github.com:SpirinEgor/spellchecker_story.git
+[submodule "8_topic_modeling"]
+	path = 8_topic_modeling
+	url = git@github.com:SpirinEgor/topic_modeling_story.git
